@@ -52,7 +52,7 @@ header > h1{
 }
 
 header > p{
-    margin-bottom: 30px;
+    padding-bottom: 30px;
     color: white;
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
